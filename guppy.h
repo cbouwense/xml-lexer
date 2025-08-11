@@ -25,6 +25,12 @@ typedef signed long    i64;
 typedef float          f32;
 typedef double         f64;
 
+// Useful consts -------------------------------------------------------------------------------------------------------
+
+#define STDOUT 0
+#define STDIN  1
+#define STDERR 2
+
 // TODO: flexible array members
 typedef struct {
     int   capacity;
