@@ -48,11 +48,11 @@ void token_print(const Token token) {
 
     printf("  lexeme_text: %s\n", token.lexeme_text);
 
-    // TODO: how do I print the value, I probably have to store a value_type as well I guess?
-
     printf("  line: %d\n", token.line);
     printf("}\n");
 }
+
+// TODO: actual error reporting now
 
 // void report(const int line, const char* where, const char* message, bool* had_error) {
 //     fprintf(stderr, "[line %d] Error %s: %s", where, message);
@@ -226,7 +226,7 @@ int main(void) {
                     } else {
                         had_error = true;
                         fprintf(stderr, "Unexpected character `%c` at line %d\n", c, line);
-                        exit(1); // TODO: remove this for actual thing
+                        exit(1);
                     }
                 } break;
             }
@@ -245,5 +245,3 @@ int main(void) {
     if (had_error) return 65; // 65 is apparently the "correct" one.
     return 0;
 }
-
-// <root/>
