@@ -149,96 +149,86 @@ int main(void) {
     while (start < char_count_in_xml_file) {
         const char c = xml_file_as_string[start];
 
-        switch (state) {
-            case STATE_STRING_LITERAL: // Intentional fallthrough
-            case STATE_TEXT_CONTENT: {
-                if (c == delim) {
-                    add_token(A, &tokens, delim_to_token_kind(delim), NULL, line, &curr, 1);
-                    
-                    state = STATE_DEFAULT;
-                    delim = '\0';
-                } else {
-                    add_string_token(A, &tokens, xml_file_as_string, &curr, start, line, TOKEN_KIND_STRING_LITERAL, delim);
-                }
-            } break;
+        if (state == STATE_STRING_LITERAL || state == STATE_TEXT_CONTENT) {
+            if (c == delim) {
+                add_token(A, &tokens, delim_to_token_kind(delim), NULL, line, &curr, 1);
+                
+                state = STATE_DEFAULT;
+                delim = '\0';
+            } else {
+                add_string_token(A, &tokens, xml_file_as_string, &curr, start, line, TOKEN_KIND_STRING_LITERAL, delim);
+            }
+        } else {
+            switch (c) {
+                case '<': {
+                    add_token(A, &tokens, TOKEN_KIND_LESS_THAN, NULL, line, &curr, 1);
+                } break;
 
-            case STATE_DEFAULT: {
-                switch (c) {
-                    case '<': {
-                        add_token(A, &tokens, TOKEN_KIND_LESS_THAN, NULL, line, &curr, 1);
-                    } break;
+                case '?': {
+                    add_token(A, &tokens, TOKEN_KIND_QUESTION, NULL, line, &curr, 1);
+                } break;
 
-                    case '?': {
-                        add_token(A, &tokens, TOKEN_KIND_QUESTION, NULL, line, &curr, 1);
-                    } break;
+                case '/': {
+                    add_token(A, &tokens, TOKEN_KIND_FORWARD_SLASH, NULL, line, &curr, 1);
+                } break;
 
-                    case '/': {
-                        add_token(A, &tokens, TOKEN_KIND_FORWARD_SLASH, NULL, line, &curr, 1);
-                    } break;
+                case '=': {
+                    add_token(A, &tokens, TOKEN_KIND_EQUAL, NULL, line, &curr, 1);
+                } break;
 
-                    case '=': {
-                        add_token(A, &tokens, TOKEN_KIND_EQUAL, NULL, line, &curr, 1);
-                    } break;
+                case '\'': {
+                    add_token(A, &tokens, TOKEN_KIND_QUOTE_SINGLE, NULL, line, &curr, 1);
+                    state = STATE_STRING_LITERAL;
+                    delim = '\'';
+                } break;
 
-                    case '\'': {
-                        add_token(A, &tokens, TOKEN_KIND_QUOTE_SINGLE, NULL, line, &curr, 1);
-                        state = STATE_STRING_LITERAL;
-                        delim = '\'';
-                    } break;
+                case '"': {
+                    add_token(A, &tokens, TOKEN_KIND_QUOTE_DOUBLE, NULL, line, &curr, 1);
+                    state = STATE_STRING_LITERAL;
+                    delim = '"';
+                } break;
 
-                    case '"': {
-                        add_token(A, &tokens, TOKEN_KIND_QUOTE_DOUBLE, NULL, line, &curr, 1);
-                        state = STATE_STRING_LITERAL;
-                        delim = '"';
-                    } break;
+                case '>': {
+                    add_token(A, &tokens, TOKEN_KIND_GREATER_THAN, NULL, line, &curr, 1);
+                    state = STATE_TEXT_CONTENT;
+                    delim = '<';
+                } break;
 
-                    case '>': {
-                        add_token(A, &tokens, TOKEN_KIND_GREATER_THAN, NULL, line, &curr, 1);
-                        state = STATE_TEXT_CONTENT;
-                        delim = '<';
-                    } break;
+                // Whitespace isn't all noise in XML, but it never starts a new token. Since this is the outer switch where
+                // we are starting new tokens, we skip any whitespace here specifically.
+                case ' ': {
+                    curr++;
+                } break;
 
-                    // Whitespace isn't all noise in XML, but it never starts a new token. Since this is the outer switch where
-                    // we are starting new tokens, we skip any whitespace here specifically.
-                    case ' ': {
-                        curr++;
-                    } break;
+                case '\n': {
+                    line++;
+                    curr++;
+                } break;
+                
+                default: {
+                    // Identifier
+                    if (is_valid_identifier_starting_char(c)) {
+                        char next_c = xml_file_as_string[ curr + 1 ];
 
-                    case '\n': {
-                        line++;
-                        curr++;
-                    } break;
-                    
-                    default: {
-                        // Identifier
-                        if (is_valid_identifier_starting_char(c)) {
-                            char next_c = xml_file_as_string[ curr + 1 ];
-
-                            while (is_valid_identifier_char(next_c)) {
-                                curr++;
-                                next_c = xml_file_as_string[ curr + 1 ];
-                            }
-
-                            //
-                            // Copy the identifier string into the token
-                            //
-                            const size_t identifier_string_length = curr - start + 1;
-                            char* identifier_string = gup_alloc(A, sizeof(char) * identifier_string_length);
-                            gup_cstr_copy_n(identifier_string, xml_file_as_string + start, identifier_string_length);
-
-                            add_token(A, &tokens, TOKEN_KIND_IDENTIFIER, identifier_string, line, &curr, 1);
-                        } else {
-                            had_error = true;
-                            fprintf(stderr, "Unexpected character `%c` at line %d\n", c, line);
-                            exit(1); // TODO: remove this for actual thing
+                        while (is_valid_identifier_char(next_c)) {
+                            curr++;
+                            next_c = xml_file_as_string[ curr + 1 ];
                         }
-                    } break;
-                }
-            } break;
 
-            default: {
-                fprintf(stderr, "Unknown tokenizer state");
-                exit(1);
+                        //
+                        // Copy the identifier string into the token
+                        //
+                        const size_t identifier_string_length = curr - start + 1;
+                        char* identifier_string = gup_alloc(A, sizeof(char) * identifier_string_length);
+                        gup_cstr_copy_n(identifier_string, xml_file_as_string + start, identifier_string_length);
+
+                        add_token(A, &tokens, TOKEN_KIND_IDENTIFIER, identifier_string, line, &curr, 1);
+                    } else {
+                        had_error = true;
+                        fprintf(stderr, "Unexpected character `%c` at line %d\n", c, line);
+                        exit(1); // TODO: remove this for actual thing
+                    }
+                } break;
             }
         }
 
