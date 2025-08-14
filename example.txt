@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  hello
+  <message>Hello, XML!</message>
+</data>
+
+LESS_THAN               |
+QUESTION                | 
+IDENTIFIER              | xml
+IDENTIFIER              | version
+EQUAL                   | 
+DOUBLE_QUOTE            | 
+STRING_LITERAL          | 1.0
+DOUBLE_QUOTE            | 
+IDENTIFIER              | encoding
+EQUAL                   | 
+DOUBLE_QUOTE            | 
+STRING_LITERAL          | UTF-8
+DOUBLE_QUOTE            | 
+QUESTION                |
+GREATER_THAN            |
+LESS_THAN               | 
+IDENTIFIER              | data
+GREATER_THAN            | 
+STRING_LITERAL          | \n  hello\n  
+LESS_THAN               | 
+IDENTIFIER              | message
+GREATER_THAN            |
+STRING_LITERAL          | Hello, XML!
+LESS_THAN               |
+FORWARD_SLASH           |
+IDENTIFIER              | message
+GREATER_THAN            |
+LESS_THAN               |
+FORWARD_SLASH           |
+IDENTIFIER              | data
+GREATER_THAN            |
