@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?pi-target with:colon "value"?>
+<!DOCTYPE torture [
+  <!ELEMENT torture (intro, section+, wrap:outer, mixed, tail)>
+  <!ATTLIST torture xml:lang CDATA #IMPLIED>
+
+  <!ELEMENT intro (#PCDATA)>
+  <!ELEMENT section (title, content)>
+  <!ATTLIST section id ID #REQUIRED xml:space (default|preserve) "default">
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT content (#PCDATA|inline|b|i|u|emoji)*>
+
+  <!ELEMENT inline (#PCDATA)>
+  <!ELEMENT b (#PCDATA)>
+  <!ELEMENT i (#PCDATA)>
+  <!ELEMENT u (#PCDATA)>
+  <!ELEMENT emoji (#PCDATA)>
+
+  <!ELEMENT wrap:outer (wrap:inner)>
+  <!ELEMENT wrap:inner (#PCDATA|testns:thing)*>
+  <!ELEMENT testns:thing ANY>
+
+  <!ELEMENT mixed (#PCDATA|a|b|c|d|e)*>
+  <!ELEMENT a (#PCDATA)>
+  <!ELEMENT b (#PCDATA)>
+  <!ELEMENT c (#PCDATA)>
+  <!ELEMENT d (#PCDATA)>
+  <!ELEMENT e (#PCDATA)>
+
+  <!ELEMENT tail (#PCDATA)>
+
+  <!-- General entity with quotes & ampersands -->
+  <!ENTITY author "A.N. Other">
+  <!ENTITY tricky "Edge &amp; case &quot;quotes&quot; and apos &apos;">
+
+  <!-- Nested entity expansion (benign) -->
+  <!ENTITY e1 "x&amp; &e2; end">
+  <!ENTITY e2 "y&amp;z">
+
+  <!-- Parameter entity used inside ATTLIST -->
+  <!ENTITY % commonAttrs 'xml:id ID #IMPLIED xml:lang CDATA #IMPLIED'>
+  <!ATTLIST inline %commonAttrs;>
+
+  <!NOTATION png SYSTEM "image/png">
+
+  <!-- Conditional sections -->
+  <![IGNORE[
+    <!ENTITY ignored "you should not see this">
+  ]]>
+  <![INCLUDE[
+    <!ENTITY included "you SHOULD see this">
+  ]]>
+]>
+<torture
+    xmlns="urn:root"
+    xmlns:wrap="urn:wrap"
+    xmlns:testns="urn:test"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xml:lang="en"
+    xml:id="root1">
+
+  <intro>
+    Hi, I'm &author; &tricky;. Also included: &included;. Nested entities: &e1;.
+  </intro>
+
+  <section id="S1" xml:space="preserve">
+    <title> Title with    irregular    whitespace  </title>
+    <content>
+      Regular text
+      <inline xml:id="i1">Has attributes from %commonAttrs;? (expanded in DTD)</inline>
+      <b>bold &lt;b&gt;</b>
+      <i>italics with &#xA0; non-breaking space</i>
+      <u><![CDATA[CDATA with near ]]]]><![CDATA[> edge]]></u>
+      <emoji>😀 &#x1F4A9;</emoji>
+      <?process-data some data?>
+      <!-- comment with hyphens - - but not double -->
+    </content>
+  </section>
+
+  <section id="S2">
+    <title>NS switching &amp; shadowing</title>
+    <content xmlns="">
+      <!-- default namespace now empty -->
+      <a>lowercase a</a> <b>lowercase b</b>
+      <c xml:space="preserve">    keep me     </c>
+      <d xml:space="default"> normalize me </d>
+      <e>Combining: ñ (n + ̃) vs ñ</e>
+    </content>
+  </section>
+
+  <wrap:outer>
+    <wrap:inner>
+      Text before
+      <testns:thing xmlns:testns="urn:test-override">prefixed element with shadowed prefix</testns:thing>
+      after.
+    </wrap:inner>
+  </wrap:outer>
+
+  <mixed>
+    Start <a>alpha</a> middle <![CDATA[some <raw> text ]]> end &e2;.
+  </mixed>
+
+  <tail xml:space="preserve">Trailing whitespace      </tail>
+</torture>

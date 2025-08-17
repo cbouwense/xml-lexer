@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book id="bk101">
+        <author>Gambardella, Matthew</author>
+        <title>XML Developer's Guide</title>
+        <genre>Computer</genre>
+        <price>44.95</price>
+        <publish_date>2000-10-01</publish_date>
+        <description>An in-depth look at creating applications with XML.</description>
+    </book>
+    <book id="bk102">
+        <author>Corets, Eva</author>
+        <title>Maeve Ascendant</title>
+        <genre>Fantasy</genre>
+        <price>5.95</price>
+        <publish_date>2000-11-17</publish_date>
+        <description>A fantasy adventure novel.</description>
+    </book>
+    <book id="bk103">
+        <author>Corets, Eva</author>
+        <title>Oberon's Legacy</title>
+        <genre>Fantasy</genre>
+        <price>19.95</price>
+        <publish_date>2001-03-10</publish_date>
+        <description>The sequel to Maeve Ascendant, continuing the saga.</description>
+    </book>
+    <book id="bk104">
+        <author>Tolkien, J.R.R.</author>
+        <title>The Fellowship of the Ring</title>
+        <genre>Fantasy</genre>
+        <price>15.99</price>
+        <publish_date>1954-07-29</publish_date>
+        <description>The first volume in the Lord of the Rings trilogy.</description>
+    </book>
+    <book id="bk105">
+        <author>Bradbury, Ray</author>
+        <title>Fahrenheit 451</title>
+        <genre>Science Fiction</genre>
+        <price>12.50</price>
+        <publish_date>1953-10-19</publish_date>
+        <description>A dystopian novel about a future society where books are outlawed.</description>
+    </book>
+    <book id="bk106">
+        <author>Orwell, George</author>
+        <title>Nineteen Eighty-Four</title>
+        <genre>Dystopian</genre>
+        <price>9.99</price>
+        <publish_date>1949-06-08</publish_date>
+        <description>A cautionary tale of a totalitarian regime.</description>
+    </book>
+    <book id="bk107">
+        <author>Rowling, J.K.</author>
+        <title>Harry Potter and the Sorcerer's Stone</title>
+        <genre>Fantasy</genre>
+        <price>14.99</price>
+        <publish_date>1997-06-26</publish_date>
+        <description>The first book in the magical series about a young wizard.</description>
+    </book>
+    <book id="bk108">
+        <author>King, Stephen</author>
+        <title>It</title>
+        <genre>Horror</genre>
+        <price>21.99</price>
+        <publish_date>1986-09-15</publish_date>
+        <description>A horror novel about a shape-shifting monster that preys on children.</description>
+    </book>
+    <book id="bk109">
+        <author>Lee, Harper</author>
+        <title>To Kill a Mockingbird</title>
+        <genre>Classic</genre>
+        <price>8.50</price>
+        <publish_date>1960-07-11</publish_date>
+        <description>A powerful story about racial injustice in the American South.</description>
+    </book>
+    <book id="bk110">
+        <author>Dostoevsky, Fyodor</author>
+        <title>Crime and Punishment</title>
+        <genre>Classic</genre>
+        <price>11.25</price>
+        <publish_date>1866-01-01</publish_date>
+        <description>A classic novel exploring the moral dilemmas of a young student.</description>
+    </book>
+    <book id="bk111">
+        <author>Christie, Agatha</author>
+        <title>And Then There Were None</title>
+        <genre>Mystery</genre>
+        <price>10.00</price>
+        <publish_date>1939-11-06</publish_date>
+        <description>Ten strangers are lured to an island, only to be killed one by one.</description>
+    </book>
+    <book id="bk112">
+        <author>Dickens, Charles</author>
+        <title>A Tale of Two Cities</title>
+        <genre>Historical Fiction</genre>
+        <price>9.50</price>
+        <publish_date>1859-04-30</publish_date>
+        <description>A historical novel set in London and Paris before and during the French Revolution.</description>
+    </book>
+    <book id="bk113">
+        <author>Austen, Jane</author>
+        <title>Pride and Prejudice</title>
+        <genre>Romance</genre>
+        <price>7.99</price>
+        <publish_date>1813-01-28</publish_date>
+        <description>A classic novel about the Bennet sisters and their romantic endeavors.</description>
+    </book>
+    <book id="bk114">
+        <author>Hemingway, Ernest</author>
+        <title>The Old Man and the Sea</title>
+        <genre>Classic</genre>
+        <price>8.75</price>
+        <publish_date>1952-09-01</publish_date>
+        <description>A tale of an aging Cuban fisherman's battle with a giant marlin.</description>
+    </book>
+    <book id="bk115">
+        <author>Asimov, Isaac</author>
+        <title>I, Robot</title>
+        <genre>Science Fiction</genre>
+        <price>13.25</price>
+        <publish_date>1950-12-02</publish_date>
+        <description>A collection of nine short stories about positronic robots.</description>
+    </book>
+    <book id="bk116">
+        <author>Herbert, Frank</author>
+        <title>Dune</title>
+        <genre>Science Fiction</genre>
+        <price>18.99</price>
+        <publish_date>1965-08-01</publish_date>
+        <description>A sweeping science fiction epic set on the desert planet Arrakis.</description>
+    </book>
+    <book id="bk117">
+        <author>Card, Orson Scott</author>
+        <title>Ender's Game</title>
+        <genre>Science Fiction</genre>
+        <price>11.50</price>
+        <publish_date>1985-01-15</publish_date>
+        <description>A young boy is trained to become a military leader to save humanity from an alien race.</description>
+    </book>
+    <book id="bk118">
+        <author>Poe, Edgar Allan</author>
+        <title>The Raven</title>
+        <genre>Poetry</genre>
+        <price>5.00</price>
+        <publish_date>1845-01-29</publish_date>
+        <description>A famous narrative poem about a talking raven's mysterious visit.</description>
+    </book>
+    <book id="bk119">
+        <author>Verne, Jules</author>
+        <title>Twenty Thousand Leagues Under the Seas</title>
+        <genre>Adventure</genre>
+        <price>10.99</price>
+        <publish_date>1870-03-20</publish_date>
+        <description>The story of Captain Nemo and his submarine, the Nautilus.</description>
+    </book>
+    <book id="bk120">
+        <author>Stevenson, Robert Louis</author>
+        <title>Treasure Island</title>
+        <genre>Adventure</genre>
+        <price>7.75</price>
+        <publish_date>1883-11-14</publish_date>
+        <description>A thrilling tale of pirates and buried gold.</description>
+    </book>
+    <book id="bk121">
+        <author>Wilde, Oscar</author>
+        <title>The Picture of Dorian Gray</title>
+        <genre>Gothic Fiction</genre>
+        <price>11.00</price>
+        <publish_date>1890-07-20</publish_date>
+        <description>A novel about a man who sells his soul to remain young and beautiful while his portrait ages.</description>
+    </book>
+    <book id="bk122">
+        <author>Shelley, Mary</author>
+        <title>Frankenstein</title>
+        <genre>Gothic Fiction</genre>
+        <price>10.50</price>
+        <publish_date>1818-01-01</publish_date>
+        <description>The story of a scientist who creates a grotesque but sentient creature.</description>
+    </book>
+    <book id="bk123">
+        <author>Stoker, Bram</author>
+        <title>Dracula</title>
+        <genre>Gothic Fiction</genre>
+        <price>12.99</price>
+        <publish_date>1897-05-26</publish_date>
+        <description>An epistolary novel about the vampire Count Dracula.</description>
+    </book>
+    <book id="bk124">
+        <author>Wells, H.G.</author>
+        <title>The War of the Worlds</title>
+        <genre>Science Fiction</genre>
+        <price>9.25</price>
+        <publish_date>1898-01-01</publish_date>
+        <description>A story about an alien invasion of Earth.</description>
+    </book>
+    <book id="bk125">
+        <author>Twain, Mark</author>
+        <title>The Adventures of Huckleberry Finn</title>
+        <genre>Adventure</genre>
+        <price>8.99</price>
+        <publish_date>1884-12-10</publish_date>
+        <description>Huck Finn's journey down the Mississippi River with an escaped slave.</description>
+    </book>
+    <book id="bk126">
+        <author>Steinbeck, John</author>
+        <title>The Grapes of Wrath</title>
+        <genre>Classic</genre>
+        <price>15.75</price>
+        <publish_date>1939-04-14</publish_date>
+        <description>A powerful novel about the struggles of a family during the Great Depression.</description>
+    </book>
+    <book id="bk127">
+        <author>Salinger, J.D.</author>
+        <title>The Catcher in the Rye</title>
+        <genre>Coming of Age</genre>
+        <price>11.00</price>
+        <publish_date>1951-07-16</publish_date>
+        <description>The story of Holden Caulfield's journey through New York after being expelled from prep school.</description>
+    </book>
+    <book id="bk128">
+        <author>Fitzgerald, F. Scott</author>
+        <title>The Great Gatsby</title>
+        <genre>Classic</genre>
+        <price>9.75</price>
+        <publish_date>1925-04-10</publish_date>
+        <description>A novel about the mysterious millionaire Jay Gatsby and his pursuit of the American Dream.</description>
+    </book>
+    <book id="bk129">
+        <author>Proust, Marcel</author>
+        <title>Swann's Way</title>
+        <genre>Literary Fiction</genre>
+        <price>24.50</price>
+        <publish_date>1913-11-14</publish_date>
+        <description>The first volume of In Search of Lost Time, exploring memory and the past.</description>
+    </book>
+    <book id="bk130">
+        <author>Camus, Albert</author>
+        <title>The Stranger</title>
+        <genre>Existentialist</genre>
+        <price>10.25</price>
+        <publish_date>1942-05-19</publish_date>
+        <description>A philosophical novel about an ordinary man who commits a seemingly motiveless murder.</description>
+    </book>
+    <book id="bk131">
+        <author>Kafka, Franz</author>
+        <title>The Metamorphosis</title>
+        <genre>Literary Fiction</genre>
+        <price>7.50</price>
+        <publish_date>1915-10-01</publish_date>
+        <description>A novella about a traveling salesman who wakes up one morning as a giant insect.</description>
+    </book>
+    <book id="bk132">
+        <author>Woolf, Virginia</author>
+        <title>Mrs Dalloway</title>
+        <genre>Literary Fiction</genre>
+        <price>13.99</price>
+        <publish_date>1925-05-14</publish_date>
+        <description>The story of a single day in the life of an upper-class woman in post-World War I England.</description>
+    </book>
+    <book id="bk133">
+        <author>Joyce, James</author>
+        <title>Ulysses</title>
+        <genre>Literary Fiction</genre>
+        <price>29.99</price>
+        <publish_date>1922-02-02</publish_date>
+        <description>A modernist novel that follows the movements of Stephen Dedalus and Leopold Bloom through Dublin.</description>
+    </book>
+    <book id="bk134">
+        <author>Huxley, Aldous</author>
+        <title>Brave New World</title>
+        <genre>Dystopian</genre>
+        <price>10.75</price>
+        <publish_date>1932-01-01</publish_date>
+        <description>A futuristic novel depicting a society ruled by technology and pleasure.</description>
+    </book>
+    <book id="bk135">
+        <author>Zamyatin, Yevgeny</author>
+        <title>We</title>
+        <genre>Dystopian</genre>
+        <price>12.25</price>
+        <publish_date>1924-01-01</publish_date>
+        <description>An early dystopian novel that influenced both Orwell's Nineteen Eighty-Four and Huxley's Brave New World.</description>
+    </book>
+    <book id="bk136">
+        <author>Tolkien, J.R.R.</author>
+        <title>The Two Towers</title>
+        <genre>Fantasy</genre>
+        <price>16.99</price>
+        <publish_date>1954-11-11</publish_date>
+        <description>The second volume of the Lord of the Rings trilogy.</description>
+    </book>
+    <book id="bk137">
+        <author>Tolkien, J.R.R.</author>
+        <title>The Return of the King</title>
+        <genre>Fantasy</genre>
+        <price>17.99</price>
+        <publish_date>1955-10-20</publish_date>
+        <description>The final volume of the Lord of the Rings trilogy.</description>
+    </book>
+    <book id="bk138">
+        <author>Lewis, C.S.</author>
+        <title>The Lion, the Witch and the Wardrobe</title>
+        <genre>Fantasy</genre>
+        <price>11.99</price>
+        <publish_date>1950-10-16</publish_date>
+        <description>The first published book in The Chronicles of Narnia.</description>
+    </book>
+    <book id="bk139">
+        <author>Pratchett, Terry</author>
+        <title>The Colour of Magic</title>
+        <genre>Fantasy</genre>
+        <price>10.50</price>
+        <publish_date>1983-11-24</publish_date>
+        <description>The first book in the Discworld series, introducing the hapless wizard Rincewind.</description>
+    </book>
+    <book id="bk140">
+        <author>Gaiman, Neil</author>
+        <title>American Gods</title>
+        <genre>Fantasy</genre>
+        <price>16.00</price>
+        <publish_date>2001-03-01</publish_date>
+        <description>A modern fantasy novel pitting old gods against new gods in America.</description>
+    </book>
+    <book id="bk141">
+        <author>Jordan, Robert</author>
+        <title>The Eye of the World</title>
+        <genre>Fantasy</genre>
+        <price>14.99</price>
+        <publish_date>1990-01-15</publish_date>
+        <description>The first book of the epic fantasy series The Wheel of Time.</description>
+    </book>
+    <book id="bk142">
+        <author>Rothfuss, Patrick</author>
+        <title>The Name of the Wind</title>
+        <genre>Fantasy</genre>
+        <price>17.95</price>
+        <publish_date>2007-03-27</publish_date>
+        <description>A young man tells the story of his life as a legendary wizard and musician.</description>
+    </book>
+    <book id="bk143">
+        <author>Le Guin, Ursula K.</author>
+        <title>A Wizard of Earthsea</title>
+        <genre>Fantasy</genre>
+        <price>11.00</price>
+        <publish_date>1968-01-01</publish_date>
+        <description>The first book in the Earthsea fantasy series, about a young boy who becomes a wizard.</description>
+    </book>
+    <book id="bk144">
+        <author>Martin, George R.R.</author>
+        <title>A Game of Thrones</title>
+        <genre>Fantasy</genre>
+        <price>18.50</price>
+        <publish_date>1996-08-01</publish_date>
+        <description>The first book in the A Song of Ice and Fire series.</description>
+    </book>
+    <book id="bk145">
+        <author>Poe, Edgar Allan</author>
+        <title>The Tell-Tale Heart</title>
+        <genre>Horror</genre>
+        <price>6.00</price>
+        <publish_date>1843-01-01</publish_date>
+        <description>A short story about a narrator's descent into madness and paranoia.</description>
+    </book>
+    <book id="bk146">
+        <author>Lovecraft, H.P.</author>
+        <title>The Call of Cthulhu</title>
+        <genre>Horror</genre>
+        <price>8.99</price>
+        <publish_date>1928-02-01</publish_date>
+        <description>A short story introducing the cosmic entity Cthulhu.</description>
+    </book>
+    <book id="bk147">
+        <author>Shirley, John</author>
+        <title>A Song for Arbonne</title>
+        <genre>Fantasy</genre>
+        <price>20.99</price>
+        <publish_date>1992-06-01</publish_date>
+        <description>A fantasy novel set in a land inspired by the medieval Cathar heresy.</description>
+    </book>
+    <book id="bk148">
+        <author>Butler, Octavia E.</author>
+        <title>Kindred</title>
+        <genre>Science Fiction</genre>
+        <price>14.95</price>
+        <publish_date>1979-06-01</publish_date>
+        <description>A modern woman is pulled back in time to an antebellum Maryland plantation.</description>
+    </book>
+    <book id="bk149">
+        <author>Dick, Philip K.</author>
+        <title>Do Androids Dream of Electric Sheep?</title>
+        <genre>Science Fiction</genre>
+        <price>13.75</price>
+        <publish_date>1968-01-01</publish_date>
+        <description>The basis for the film Blade Runner, exploring what it means to be human.</description>
+    </book>
+    <book id="bk150">
+        <author>Vonnegut, Kurt</author>
+        <title>Slaughterhouse-Five</title>
+        <genre>Science Fiction</genre>
+        <price>11.50</price>
+        <publish_date>1969-03-31</publish_date>
+        <description>A satirical novel about World War II and time travel.</description>
+    </book>
+    <book id="bk151">
+        <author>Adams, Douglas</author>
+        <title>The Hitchhiker's Guide to the Galaxy</title>
+        <genre>Science Fiction</genre>
+        <price>10.99</price>
+        <publish_date>1979-10-12</publish_date>
+        <description>A comedic science fiction adventure about a man who survives the destruction of Earth.</description>
+    </book>
+    <book id="bk152">
+        <author>Frank, Anne</author>
+        <title>The Diary of a Young Girl</title>
+        <genre>Biography</genre>
+        <price>9.00</price>
+        <publish_date>1947-06-25</publish_date>
+        <description>The personal diary of a young girl hiding from the Nazis during World War II.</description>
+    </book>
+    <book id="bk153">
+        <author>Pirsig, Robert M.</author>
+        <title>Zen and the Art of Motorcycle Maintenance</title>
+        <genre>Philosophy</genre>
+        <price>16.50</price>
+        <publish_date>1974-04-01</publish_date>
+        <description>A philosophical novel that explores the concept of 'quality'.</description>
+    </book>
+    <book id="bk154">
+        <author>Camus, Albert</author>
+        <title>The Plague</title>
+        <genre>Existentialist</genre>
+        <price>11.75</price>
+        <publish_date>1947-06-12</publish_date>
+        <description>A novel about a plague that ravages the city of Oran, exploring human suffering and resilience.</description>
+    </book>
+    <book id="bk155">
+        <author>Conrad, Joseph</author>
+        <title>Heart of Darkness</title>
+        <genre>Classic</genre>
+        <price>8.00</price>
+        <publish_date>1899-02-01</publish_date>
+        <description>A novella about a voyage up the Congo River into the heart of Africa and the human soul.</description>
+    </book>
+    <book id="bk156">
+        <author>Dante, Alighieri</author>
+        <title>The Inferno</title>
+        <genre>Poetry</genre>
+        <price>14.00</price>
+        <publish_date>1320-01-01</publish_date>
+        <description>The first part of Dante's epic poem The Divine Comedy, describing his journey through Hell.</description>
+    </book>
+    <book id="bk157">
+        <author>Homer</author>
+        <title>The Odyssey</title>
+        <genre>Epic</genre>
+        <price>12.50</price>
+        <publish_date>750-01-01</publish_date>
+        <description>The ancient Greek epic poem telling of Odysseus's journey home after the Trojan War.</description>
+    </book>
+    <book id="bk158">
+        <author>Milton, John</author>
+        <title>Paradise Lost</title>
+        <genre>Epic</genre>
+        <price>16.25</price>
+        <publish_date>1667-08-01</publish_date>
+        <description>An epic poem about the biblical story of the Fall of Man.</description>
+    </book>
+    <book id="bk159">
+        <author>Shakespeare, William</author>
+        <title>Hamlet</title>
+        <genre>Play</genre>
+        <price>7.00</price>
+        <publish_date>1603-01-01</publish_date>
+        <description>The tragic tale of Prince Hamlet and his quest for revenge.</description>
+    </book>
+    <book id="bk160">
+        <author>Dickinson, Emily</author>
+        <title>The Complete Poems</title>
+        <genre>Poetry</genre>
+        <price>20.50</price>
+        <publish_date>1955-01-01</publish_date>
+        <description>A comprehensive collection of the reclusive poet's work.</description>
+    </book>
+    <book id="bk161">
+        <author>Lee, Harper</author>
+        <title>Go Set a Watchman</title>
+        <genre>Classic</genre>
+        <price>14.99</price>
+        <publish_date>2015-07-14</publish_date>
+        <description>A sequel/prequel to To Kill a Mockingbird.</description>
+    </book>
+    <book id="bk162">
+        <author>Murakami, Haruki</author>
+        <title>Norwegian Wood</title>
+        <genre>Literary Fiction</genre>
+        <price>13.00</price>
+        <publish_date>1987-09-01</publish_date>
+        <description>A nostalgic story of loss and sexuality, told from a first-person perspective.</description>
+    </book>
+    <book id="bk163">
+        <author>Ishiguro, Kazuo</author>
+        <title>Never Let Me Go</title>
+        <genre>Dystopian</genre>
+        <price>15.99</price>
+        <publish_date>2005-04-12</publish_date>
+        <description>A story about a group of clones raised in a special boarding school.</description>
+    </book>
+    <book id="bk164">
+        <author>Atwood, Margaret</author>
+        <title>The Handmaid's Tale</title>
+        <genre>Dystopian</genre>
+        <price>12.50</price>
+        <publish_date>1985-01-01</publish_date>
+        <description>A dystopian novel set in a totalitarian theocracy called Gilead.</description>
+    </book>
+    <book id="bk165">
+        <author>Butler, Octavia E.</author>
+        <title>Parable of the Sower</title>
+        <genre>Science Fiction</genre>
+        <price>15.25</price>
+        <publish_date>1993-01-01</publish_date>
+        <description>A young woman with a special ability navigates a dystopian future America.</description>
+    </book>
+    <book id="bk166">
+        <author>Proulx, Annie</author>
+        <title>The Shipping News</title>
+        <genre>Literary Fiction</genre>
+        <price>14.00</price>
+        <publish_date>1993-05-01</publish_date>
+        <description>A Pulitzer Prize-winning novel about a man who returns to his family's ancestral home in Newfoundland.</description>
+    </book>
+    <book id="bk167">
+        <author>Wallace, David Foster</author>
+        <title>Infinite Jest</title>
+        <genre>Literary Fiction</genre>
+        <price>22.00</price>
+        <publish_date>1996-02-01</publish_date>
+        <description>A sprawling, postmodern novel about a tennis academy and a mysterious film.</description>
+    </book>
+    <book id="bk168">
+        <author>McCarthy, Cormac</author>
+        <title>The Road</title>
+        <genre>Post-Apocalyptic</genre>
+        <price>16.99</price>
+        <publish_date>2006-09-26</publish_date>
+        <description>A father and son journey through a post-apocalyptic wasteland.</description>
+    </book>
+    <book id="bk169">
+        <author>Grisham, John</author>
+        <title>The Firm</title>
+        <genre>Thriller</genre>
+        <price>10.50</price>
+        <publish_date>1991-03-23</publish_date>
+        <description>A young lawyer discovers his prestigious law firm is tied to the mafia.</description>
+    </book>
+    <book id="bk170">
+        <author>Larsson, Stieg</author>
+        <title>The Girl with the Dragon Tattoo</title>
+        <genre>Mystery</genre>
+        <price>15.99</price>
+        <publish_date>2005-08-01</publish_date>
+        <description>A disgraced journalist and a brilliant but troubled hacker investigate a disappearance.</description>
+    </book>
+    <book id="bk171">
+        <author>Follett, Ken</author>
+        <title>The Pillars of the Earth</title>
+        <genre>Historical Fiction</genre>
+        <price>19.50</price>
+        <publish_date>1989-09-01</publish_date>
+        <description>A historical novel following the construction of a cathedral in 12th-century England.</description>
+    </book>
+    <book id="bk172">
+        <author>Follett, Ken</author>
+        <title>World Without End</title>
+        <genre>Historical Fiction</genre>
+        <price>21.00</price>
+        <publish_date>2007-10-09</publish_date>
+        <description>A sequel to The Pillars of the Earth, set 200 years later.</description>
+    </book>
+    <book id="bk173">
+        <author>Hosseini, Khaled</author>
+        <title>The Kite Runner</title>
+        <genre>Literary Fiction</genre>
+        <price>13.50</price>
+        <publish_date>2003-05-29</publish_date>
+        <description>A story about a young boy in Afghanistan and his complex relationship with his friend.</description>
+    </book>
+    <book id="bk174">
+        <author>Tartt, Donna</author>
+        <title>The Secret History</title>
+        <genre>Mystery</genre>
+        <price>17.99</price>
+        <publish_date>1992-09-01</publish_date>
+        <description>A group of classics students at an elite New England college descend into a moral abyss.</description>
+    </book>
+    <book id="bk175">
+        <author>Franzen, Jonathan</author>
+        <title>The Corrections</title>
+        <genre>Literary Fiction</genre>
+        <price>18.00</price>
+        <publish_date>2001-09-01</publish_date>
+        <description>A sprawling family saga about a Midwestern family's struggles in the late 20th century.</description>
+    </book>
+    <book id="bk176">
+        <author>Mitchell, David</author>
+        <title>Cloud Atlas</title>
+        <genre>Science Fiction</genre>
+        <price>16.95</price>
+        <publish_date>2004-04-01</publish_date>
+        <description>Six interconnected stories spanning centuries, each written in a different genre.</description>
+    </book>
+    <book id="bk177">
+        <author>Pynchon, Thomas</author>
+        <title>Gravity's Rainbow</title>
+        <genre>Postmodern</genre>
+        <price>25.00</price>
+        <publish_date>1973-01-01</publish_date>
+        <description>A complex postmodern novel about the search for a mysterious V-2 rocket.</description>
+    </book>
+    <book id="bk178">
+        <author>Nabokov, Vladimir</author>
+        <title>Lolita</title>
+        <genre>Literary Fiction</genre>
+        <price>14.50</price>
+        <publish_date>1955-09-01</publish_date>
+        <description>A controversial novel about a middle-aged literature professor and a young girl.</description>
+    </book>
+    <book id="bk179">
+        <author>Coelho, Paulo</author>
+        <title>The Alchemist</title>
+        <genre>Fantasy</genre>
+        <price>9.99</price>
+        <publish_date>1988-01-01</publish_date>
+        <description>A young Andalusian shepherd travels from Spain to the Egyptian desert in search of treasure.</description>
+    </book>
+    <book id="bk180">
+        <author>Gaiman, Neil</author>
+        <title>Stardust</title>
+        <genre>Fantasy</genre>
+        <price>12.99</price>
+        <publish_date>1998-01-01</publish_date>
+        <description>A young man from a village bordering a magical land enters it to find a fallen star.</description>
+    </book>
+    <book id="bk181">
+        <author>Atwood, Margaret</author>
+        <title>Oryx and Crake</title>
+        <genre>Science Fiction</genre>
+        <price>15.75</price>
+        <publish_date>2003-05-01</publish_date>
+        <description>A post-apocalyptic story told from the perspective of the last man on Earth.</description>
+    </book>
+    <book id="bk182">
+        <author>Clarke, Susanna</author>
+        <title>Jonathan Strange &amp; Mr Norrell</title>
+        <genre>Fantasy</genre>
+        <price>20.95</price>
+        <publish_date>2004-09-08</publish_date>
+        <description>A historical fantasy novel set in an alternate 19th-century England where magic is real.</description>
+    </book>
+    <book id="bk183">
+        <author>Pullman, Philip</author>
+        <title>The Golden Compass</title>
+        <genre>Fantasy</genre>
+        <price>13.99</price>
+        <publish_date>1995-07-15</publish_date>
+        <description>The first book in the His Dark Materials trilogy, following a young girl named Lyra Belacqua.</description>
+    </book>
+    <book id="bk184">
+        <author>Collins, Suzanne</author>
+        <title>The Hunger Games</title>
+        <genre>Young Adult</genre>
+        <price>10.50</price>
+        <publish_date>2008-09-14</publish_date>
+        <description>A dystopian novel about a televised fight to the death among teenagers.</description>
+    </book>
+    <book id="bk185">
+        <author>Tolkien, J.R.R.</author>
+        <title>The Hobbit</title>
+        <genre>Fantasy</genre>
+        <price>14.25</price>
+        <publish_date>1937-09-21</publish_date>
+        <description>A prequel to The Lord of the Rings, following Bilbo Baggins on an adventure.</description>
+    </book>
+    <book id="bk186">
+        <author>L'Engle, Madeleine</author>
+        <title>A Wrinkle in Time</title>
+        <genre>Science Fiction</genre>
+        <price>10.00</price>
+        <publish_date>1962-01-01</publish_date>
+        <description>A young girl travels through time and space to rescue her father.</description>
+    </book>
+    <book id="bk187">
+        <author>Paolini, Christopher</author>
+        <title>Eragon</title>
+        <genre>Fantasy</genre>
+        <price>12.99</price>
+        <publish_date>2002-06-25</publish_date>
+        <description>A farm boy finds a mysterious stone that hatches into a dragon.</description>
+    </book>
+    <book id="bk188">
+        <author>Pratchett, Terry</author>
+        <title>The Light Fantastic</title>
+        <genre>Fantasy</genre>
+        <price>11.00</price>
+        <publish_date>1986-04-01</publish_date>
+        <description>The second novel in the Discworld series, continuing the adventures of Rincewind.</description>
+    </book>
+    <book id="bk189">
+        <author>Asimov, Isaac</author>
+        <title>Foundation</title>
+        <genre>Science Fiction</genre>
+        <price>15.00</price>
+        <publish_date>1951-05-01</publish_date>
+        <description>A series of stories chronicling the fall and rebirth of a galactic empire.</description>
+    </book>
+    <book id="bk190">
+        <author>Dick, Philip K.</author>
+        <title>Ubik</title>
+        <genre>Science Fiction</genre>
+        <price>12.50</price>
+        <publish_date>1969-01-01</publish_date>
+        <description>A novel about a group of anti-psychics who encounter a bizarre reality shift.</description>
+    </book>
+    <book id="bk191">
+        <author>Herbert, Frank</author>
+        <title>Dune Messiah</title>
+        <genre>Science Fiction</genre>
+        <price>14.99</price>
+        <publish_date>1969-01-01</publish_date>
+        <description>The second book in the Dune series, following Paul Atreides's reign as emperor.</description>
+    </book>
+    <book id="bk192">
+        <author>Heinlein, Robert A.</author>
+        <title>Stranger in a Strange Land</title>
+        <genre>Science Fiction</genre>
+        <price>17.00</price>
+        <publish_date>1961-06-01</publish_date>
+        <description>A novel about a human who was raised by Martians and comes to Earth.</description>
+    </book>
+    <book id="bk193">
+        <author>Simmons, Dan</author>
+        <title>Hyperion</title>
+        <genre>Science Fiction</genre>
+        <price>19.95</price>
+        <publish_date>1989-05-26</publish_date>
+        <description>A group of pilgrims embark on a journey to the Time Tombs on Hyperion.</description>
+    </book>
+    <book id="bk194">
+        <author>Card, Orson Scott</author>
+        <title>Speaker for the Dead</title>
+        <genre>Science Fiction</genre>
+        <price>13.50</price>
+        <publish_date>1986-03-01</publish_date>
+        <description>A sequel to Ender's Game, exploring the aftermath of a xenocide.</description>
+    </book>
+    <book id="bk195">
+        <author>Gibson, William</author>
+        <title>Neuromancer</title>
+        <genre>Science Fiction</genre>
+        <price>15.25</price>
+        <publish_date>1984-07-01</publish_date>
+        <description>A cyberpunk novel about a console cowboy who is hired for one last job.</description>
+    </book>
+    <book id="bk196">
+        <author>Stephenson, Neal</author>
+        <title>Snow Crash</title>
+        <genre>Science Fiction</genre>
+        <price>16.50</price>
+        <publish_date>1992-06-01</publish_date>
+        <description>A cyberpunk novel exploring virtual reality and ancient myths.</description>
+    </book>
+    <book id="bk197">
+        <author>Butler, Octavia E.</author>
+        <title>Dawn</title>
+        <genre>Science Fiction</genre>
+        <price>13.99</price>
+        <publish_date>1987-10-01</publish_date>
+        <description>The first book in the Lilith's Brood series, about the survivors of a nuclear apocalypse.</description>
+    </book>
+    <book id="bk198">
+        <author>Clarke, Arthur C.</author>
+        <title>2001: A Space Odyssey</title>
+        <genre>Science Fiction</genre>
+        <price>11.99</price>
+        <publish_date>1968-01-01</publish_date>
+        <description>A novel exploring human evolution and artificial intelligence, alongside the famous film.</description>
+    </book>
+    <book id="bk199">
+        <author>Le Guin, Ursula K.</author>
+        <title>The Left Hand of Darkness</title>
+        <genre>Science Fiction</genre>
+        <price>14.50</price>
+        <publish_date>1969-03-01</publish_date>
+        <description>A novel about a human envoy to a planet of androgynous beings.</description>
+    </book>
+    <book id="bk200">
+        <author>Asimov, Isaac</author>
+        <title>The Caves of Steel</title>
+        <genre>Science Fiction</genre>
+        <price>10.99</price>
+        <publish_date>1954-01-01</publish_date>
+        <description>A science fiction mystery novel about a detective and his robot partner.</description>
+    </book>
+    <book id="bk201">
+        <author>Adams, Douglas</author>
+        <title>The Restaurant at the End of the Universe</title>
+        <genre>Science Fiction</genre>
+        <price>11.25</price>
+        <publish_date>1980-01-01</publish_date>
+        <description>The second book in the Hitchhiker's Guide to the Galaxy series.</description>
+    </book>
+    <book id="bk202">
+        <author>Adams, Douglas</author>
+        <title>Life, the Universe and Everything</title>
+        <genre>Science Fiction</genre>
+        <price>11.50</price>
+        <publish_date>1982-01-01</publish_date>
+        <description>The third book in the Hitchhiker's Guide to the Galaxy series.</description>
+    </book>
+    <book id="bk203">
+        <author>Adams, Douglas</author>
+        <title>So Long, and Thanks for All the Fish</title>
+        <genre>Science Fiction</genre>
+        <price>11.75</price>
+        <publish_date>1984-01-01</publish_date>
+        <description>The fourth book in the Hitchhiker's Guide to the Galaxy series.</description>
+    </book>
+    <book id="bk204">
+        <author>Adams, Douglas</author>
+        <title>Mostly Harmless</title>
+        <genre>Science Fiction</genre>
+        <price>12.00</price>
+        <publish_date>1992-01-01</publish_date>
+        <description>The fifth book in the Hitchhiker's Guide to the Galaxy series.</description>
+    </book>
+    <book id="bk205">
+        <author>Gaiman, Neil</author>
+        <title>Good Omens</title>
+        <genre>Fantasy</genre>
+        <price>13.50</price>
+        <publish_date>1990-05-01</publish_date>
+        <description>A collaboration with Terry Pratchett about an angel and a demon who try to prevent the apocalypse.</description>
+    </book>
+    <book id="bk206">
+        <author>Pratchett, Terry</author>
+        <title>Mort</title>
+        <genre>Fantasy</genre>
+        <price>10.75</price>
+        <publish_date>1987-11-12</publish_date>
+        <description>The fourth novel in the Discworld series, introducing Death's apprentice.</description>
+    </book>
+    <book id="bk207">
+        <author>Pratchett, Terry</author>
+        <title>Guards! Guards!</title>
+        <genre>Fantasy</genre>
+        <price>11.50</price>
+        <publish_date>1989-11-09</publish_date>
+        <description>The eighth novel in the Discworld series, and the first to focus on the City Watch.</description>
+    </book>
+    <book id="bk208">
+        <author>Pratchett, Terry</author>
+        <title>Hogfather</title>
+        <genre>Fantasy</genre>
+        <price>12.00</price>
+        <publish_date>1996-01-01</publish_date>
+        <description>The 20th novel in the Discworld series, featuring Death taking over for the Hogfather.</description>
+    </book>
+    <book id="bk209">
+        <author>Jordan, Robert</author>
+        <title>The Great Hunt</title>
+        <genre>Fantasy</genre>
+        <price>15.25</price>
+        <publish_date>1990-11-15</publish_date>
+        <description>The second book in The Wheel of Time series.</description>
+    </book>
+    <book id="bk210">
+        <author>Jordan, Robert</author>
+        <title>The Dragon Reborn</title>
+        <genre>Fantasy</genre>
+        <price>16.00</price>
+        <publish_date>1991-09-15</publish_date>
+        <description>The third book in The Wheel of Time series.</description>
+    </book>
+    <book id="bk211">
+        <author>Martin, George R.R.</author>
+        <title>A Clash of Kings</title>
+        <genre>Fantasy</genre>
+        <price>19.00</price>
+        <publish_date>1998-11-16</publish_date>
+        <description>The second book in the A Song of Ice and Fire series.</description>
+    </book>
+    <book id="bk212">
+        <author>Martin, George R.R.</author>
+        <title>A Storm of Swords</title>
+        <genre>Fantasy</genre>
+        <price>20.50</price>
+        <publish_date>2000-08-08</publish_date>
+        <description>The third book in the A Song of Ice and Fire series.</description>
+    </book>
+    <book id="bk213">
+        <author>Le Guin, Ursula K.</author>
+        <title>The Tombs of Atuan</title>
+        <genre>Fantasy</genre>
+        <price>10.50</price>
+        <publish_date>1971-09-01</publish_date>
+        <description>The second book in the Earthsea series, following the priestess Arha.</description>
+    </book>
+    <book id="bk214">
+        <author>Le Guin, Ursula K.</author>
+        <title>The Farthest Shore</title>
+        <genre>Fantasy</genre>
+        <price>11.00</price>
+        <publish_date>1972-09-01</publish_date>
+        <description>The third book in the Earthsea series, in which Ged and Arren seek to restore magic.</description>
+    </book>
+    <book id="bk215">
+        <author>Rothfuss, Patrick</author>
+        <title>The Wise Man's Fear</title>
+        <genre>Fantasy</genre>
+        <price>18.99</price>
+        <publish_date>2011-03-01</publish_date>
+        <description>The second book in The Kingkiller Chronicle, continuing the story of Kvothe.</description>
+    </book>
+    <book id="bk216">
+        <author>Atwood, Margaret</author>
+        <title>The Testaments</title>
+        <genre>Dystopian</genre>
+        <price>22.00</price>
+        <publish_date>2019-09-10</publish_date>
+        <description>A sequel to The Handmaid's Tale, set 15 years later.</description>
+    </book>
+    <book id="bk217">
+        <author>Ishiguro, Kazuo</author>
+        <title>The Remains of the Day</title>
+        <genre>Literary Fiction</genre>
+        <price>14.50</price>
+        <publish_date>1989-05-01</publish_date>
+        <description>A butler reflects on his life and career in the service of a lord.</description>
+    </book>
+    <book id="bk218">
+        <author>McCarthy, Cormac</author>
+        <title>No Country for Old Men</title>
+        <genre>Neo-Western</genre>
+        <price>14.00</price>
+        <publish_date>2005-07-26</publish_date>
+        <description>A thriller about a hunter who stumbles upon a drug deal gone wrong.</description>
+    </book>
+    <book id="bk219">
+        <author>Franzen, Jonathan</author>
+        <title>Purity</title>
+        <genre>Literary Fiction</genre>
+        <price>19.99</price>
+        <publish_date>2015-09-01</publish_date>
+        <description>A sprawling novel about a young woman's search for her father and her place in the world.</description>
+    </book>
+    <book id="bk220">
+        <author>Mitchell, David</author>
+        <title>The Bone Clocks</title>
+        <genre>Fantasy</genre>
+        <price>18.50</price>
+        <publish_date>2014-09-02</publish_date>
+        <description>A complex novel that follows a series of interconnected characters across six decades.</description>
+    </book>
+    <book id="bk221">
+        <author>Coelho, Paulo</author>
+        <title>Veronika Decides to Die</title>
+        <genre>Philosophical Fiction</genre>
+        <price>10.50</price>
+        <publish_date>1998-01-01</publish_date>
+        <description>A novel about a young woman in Slovenia who attempts suicide but survives.</description>
+    </book>
+    <book id="bk222">
+        <author>Hosseini, Khaled</author>
+        <title>A Thousand Splendid Suns</title>
+        <genre>Literary Fiction</genre>
+        <price>14.75</price>
+        <publish_date>2007-05-22</publish_date>
+        <description>A story of two Afghan women whose lives intersect in a time of war.</description>
+    </book>
+    <book id="bk223">
+        <author>Collins, Suzanne</author>
+        <title>Catching Fire</title>
+        <genre>Young Adult</genre>
+        <price>11.00</price>
+        <publish_date>2009-09-01</publish_date>
+        <description>The second book in The Hunger Games trilogy.</description>
+    </book>
+    <book id="bk224">
+        <author>Collins, Suzanne</author>
+        <title>Mockingjay</title>
+        <genre>Young Adult</genre>
+        <price>11.50</price>
+        <publish_date>2010-08-24</publish_date>
+        <description>The final book in The Hunger Games trilogy.</description>
+    </book>
+    <book id="bk225">
+        <author>Asimov, Isaac</author>
+        <title>The Naked Sun</title>
+        <genre>Science Fiction</genre>
+        <price>10.50</price>
+        <publish_date>1957-01-01</publish_date>
+        <description>A sequel to The Caves of Steel, featuring the same detective and robot partner.</description>
+    </book>
+    <book id="bk226">
+        <author>Heinlein, Robert A.</author>
+        <title>The Moon Is a Harsh Mistress</title>
+        <genre>Science Fiction</genre>
+        <price>15.50</price>
+        <publish_date>1966-07-01</publish_date>
+        <description>A novel about a lunar colony's revolt against Earth.</description>
+    </book>
+    <book id="bk227">
+        <author>Simmons, Dan</author>
+        <title>The Fall of Hyperion</title>
+        <genre>Science Fiction</genre>
+        <price>18.99</price>
+        <publish_date>1990-09-01</publish_date>
+        <description>The conclusion to the Hyperion Cantos, continuing the journey of the pilgrims.</description>
+    </book>
+    <book id="bk228">
+        <author>Stephenson, Neal</author>
+        <title>Cryptonomicon</title>
+        <genre>Science Fiction</genre>
+        <price>22.50</price>
+        <publish_date>1999-05-01</publish_date>
+        <description>A historical and contemporary novel about cryptography and a quest for hidden gold.</description>
+    </book>
+    <book id="bk229">
+        <author>Gaiman, Neil</author>
+        <title>The Ocean at the End of the Lane</title>
+        <genre>Fantasy</genre>
+        <price>13.99</price>
+        <publish_date>2013-06-18</publish_date>
+        <description>A man returns to his childhood home and recalls a forgotten magical past.</description>
+    </book>
+    <book id="bk230">
+        <author>Dune, Brian Herbert</author>
+        <title>House Atreides</title>
+        <genre>Science Fiction</genre>
+        <price>17.95</price>
+        <publish_date>1999-12-01</publish_date>
+        <description>The first book in a prequel trilogy to the original Dune series.</description>
+    </book>
+    <book id="bk231">
+        <author>Dune, Brian Herbert</author>
+        <title>House Harkonnen</title>
+        <genre>Science Fiction</genre>
+        <price>18.50</price>
+        <publish_date>2000-07-01</publish_date>
+        <description>The second book in a prequel trilogy to the original Dune series.</description>
+    </book>
+    <book id="bk232">
+        <author>Dune, Brian Herbert</author>
+        <title>House Corrino</title>
+        <genre>Science Fiction</genre>
+        <price>19.00</price>
+        <publish_date>2001-09-01</publish_date>
+        <description>The third and final book in a prequel trilogy to the original Dune series.</description>
+    </book>
+    <book id="bk233">
+        <author>Pratchett, Terry</author>
+        <title>Small Gods</title>
+        <genre>Fantasy</genre>
+        <price>11.99</price>
+        <publish_date>1992-11-06</publish_date>
+        <description>A philosophical Discworld novel about the nature of religion and belief.</description>
+    </book>
+    <book id="bk234">
+        <author>Gaiman, Neil</author>
+        <title>Norse Mythology</title>
+        <genre>Mythology</genre>
+        <price>16.99</price>
+        <publish_date>2017-02-07</publish_date>
+        <description>A retelling of the great Norse myths and legends.</description>
+    </book>
+    <book id="bk235">
+        <author>Tolkien, J.R.R.</author>
+        <title>The Silmarillion</title>
+        <genre>Fantasy</genre>
+        <price>20.00</price>
+        <publish_date>1977-09-15</publish_date>
+        <description>A collection of mythopoeic stories about Middle-earth, edited and published posthumously.</description>
+    </book>
+    <book id="bk236">
+        <author>Lewis, C.S.</author>
+        <title>Prince Caspian</title>
+        <genre>Fantasy</genre>
+        <price>11.50</price>
+        <publish_date>1951-10-15</publish_date>
+        <description>The second published book in The Chronicles of Narnia.</description>
+    </book>
+    <book id="bk237">
+        <author>Lewis, C.S.</author>
+        <title>The Voyage of the Dawn Treader</title>
+        <genre>Fantasy</genre>
+        <price>11.75</price>
+        <publish_date>1952-09-15</publish_date>
+        <description>The third published book in The Chronicles of Narnia.</description>
+    </book>
+    <book id="bk238">
+        <author>Lewis, C.S.</author>
+        <title>The Silver Chair</title>
+        <genre>Fantasy</genre>
+        <price>11.50</price>
+        <publish_date>1953-09-01</publish_date>
+        <description>The fourth published book in The Chronicles of Narnia.</description>
+    </book>
+    <book id="bk239">
+        <author>Lewis, C.S.</author>
+        <title>The Horse and His Boy</title>
+        <genre>Fantasy</genre>
+        <price>11.00</price>
+        <publish_date>1954-09-06</publish_date>
+        <description>The fifth published book in The Chronicles of Narnia.</description>
+    </book>
+    <book id="bk240">
+        <author>Lewis, C.S.</author>
+        <title>The Magician's Nephew</title>
+        <genre>Fantasy</genre>
+        <price>11.99</price>
+        <publish_date>1955-05-02</publish_date>
+        <description>The sixth published book in The Chronicles of Narnia, detailing the creation of Narnia.</description>
+    </book>
+    <book id="bk241">
+        <author>Lewis, C.S.</author>
+        <title>The Last Battle</title>
+        <genre>Fantasy</genre>
+        <price>12.25</price>
+        <publish_date>1956-03-24</publish_date>
+        <description>The seventh and final published book in The Chronicles of Narnia.</description>
+    </book>
+    <book id="bk242">
+        <author>Pratchett, Terry</author>
+        <title>Wyrd Sisters</title>
+        <genre>Fantasy</genre>
+        <price>11.25</price>
+        <publish_date>1988-11-01</publish_date>
+        <description>The sixth Discworld novel, a parody of Shakespeare's Macbeth and Hamlet.</description>
+    </book>
+    <book id="bk243">
+        <author>Pratchett, Terry</author>
+        <title>Pyramids</title>
+        <genre>Fantasy</genre>
+        <price>10.99</price>
+        <publish_date>1989-05-01</publish_date>
+        <description>The seventh Discworld novel, following a student assassin who inherits a kingdom.</description>
+    </book>
+    <book id="bk244">
+        <author>Pratchett, Terry</author>
+        <title>Reaper Man</title>
+        <genre>Fantasy</genre>
+        <price>11.50</price>
+        <publish_date>1991-01-01</publish_date>
+        <description>The eleventh Discworld novel, featuring Death being forced into retirement.</description>
+    </book>
+    <book id="bk245">
+        <author>Pratchett, Terry</author>
+        <title>Soul Music</title>
+        <genre>Fantasy</genre>
+        <price>12.00</price>
+        <publish_date>1994-01-01</publish_date>
+        <description>The 16th Discworld novel, about a young woman who takes over as the Grim Reaper.</description>
+    </book>
+    <book id="bk246">
+        <author>Pratchett, Terry</author>
+        <title>Jingo</title>
+        <genre>Fantasy</genre>
+        <price>12.50</price>
+        <publish_date>1997-11-01</publish_date>
+        <description>The 21st Discworld novel, centered on a potential war between Ankh-Morpork and Klatch.</description>
+    </book>
+    <book id="bk247">
+        <author>Pratchett, Terry</author>
+        <title>The Fifth Elephant</title>
+        <genre>Fantasy</genre>
+        <price>13.00</price>
+        <publish_date>1999-11-01</publish_date>
+        <description>The 24th Discworld novel, following Commander Vimes on a diplomatic mission.</description>
+    </book>
+</catalog>

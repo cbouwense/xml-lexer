@@ -1,0 +1,4239 @@
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_QUESTION
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xml
+
+  line: 1
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: version
+
+  line: 1
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 1.0
+  line: 1
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: encoding
+
+  line: 1
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: UTF-8
+  line: 1
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_QUESTION
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  line: 1
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_QUESTION
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: pi-target
+
+  line: 1
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: with:colon
+
+  line: 1
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: value
+  line: 1
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_QUESTION
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  line: 1
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: DOCTYPE
+
+  line: 1
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: torture
+
+  line: 1
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 1
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: torture
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: intro
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_COMMA
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: section
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PLUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_COMMA
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: wrap:outer
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_COMMA
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: mixed
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_COMMA
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: tail
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ATTLIST
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: torture
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xml:lang
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: CDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: IMPLIED
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: intro
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: section
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: title
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_COMMA
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: content
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ATTLIST
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: section
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: id
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ID
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: REQUIRED
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xml:space
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: default
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: preserve
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: default
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: title
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: content
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: inline
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: b
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: i
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: u
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: emoji
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STAR
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: inline
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: b
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: i
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: u
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: emoji
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: wrap:outer
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: wrap:inner
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: wrap:inner
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: testns:thing
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STAR
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: testns:thing
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ANY
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: mixed
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: a
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: b
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: c
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: d
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PIPE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: e
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STAR
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: a
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: b
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: c
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: d
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: e
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ELEMENT
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: tail
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_HASH
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: PCDATA
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: General
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: entity
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: with
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: quotes
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_AMPERSAND
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ampersands
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ENTITY
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: author
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: A.N. Other
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ENTITY
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: tricky
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: Edge &amp; case &quot;quotes&quot; and apos &apos;
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: Nested
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: entity
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: expansion
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_OPEN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: benign
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PARENTHESIS_CLOSE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ENTITY
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: e1
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: x&amp; &e2; end
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ENTITY
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: e2
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: y&amp;z
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: Parameter
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: entity
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: used
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: inside
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ATTLIST
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ENTITY
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PERCENT
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: commonAttrs
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_SINGLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: xml:id ID #IMPLIED xml:lang CDATA #IMPLIED
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_SINGLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ATTLIST
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: inline
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_PERCENT
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: commonAttrs
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_SEMICOLON
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: NOTATION
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: png
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: SYSTEM
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: image/png
+  line: 2
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: Conditional
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: sections
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: IGNORE
+
+  line: 2
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 2
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 3
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 3
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ENTITY
+
+  line: 3
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ignored
+
+  line: 3
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 3
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: you should not see this
+  line: 3
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 3
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 3
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  ]]>
+  
+  line: 3
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 3
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 3
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 3
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: INCLUDE
+
+  line: 3
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 3
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 4
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 4
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: ENTITY
+
+  line: 4
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: included
+
+  line: 4
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 4
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: you SHOULD see this
+  line: 4
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 4
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 4
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  ]]>
+]>
+
+  line: 4
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 4
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: torture
+
+  line: 4
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xmlns
+
+  line: 5
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 5
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 5
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: urn:root
+  line: 5
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 5
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xmlns:wrap
+
+  line: 6
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 6
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 6
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: urn:wrap
+  line: 6
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 6
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xmlns:testns
+
+  line: 7
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 7
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 7
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: urn:test
+  line: 7
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 7
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xmlns:xsi
+
+  line: 8
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 8
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 8
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: http://www.w3.org/2001/XMLSchema-instance
+  line: 8
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 8
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xml:lang
+
+  line: 9
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 9
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 9
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: en
+  line: 9
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 9
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xml:id
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: root1
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: intro
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+    Hi, I'm &author; &tricky;. Also included: &included;. Nested entities: &e1;.
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: intro
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: section
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: id
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: S1
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xml:space
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: preserve
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+    
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: title
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text:  Title with    irregular    whitespace  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: title
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+    
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: content
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      Regular text
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: inline
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xml:id
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: i1
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: Has attributes from %commonAttrs;? (expanded in DTD)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: inline
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: b
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: bold &lt;b&gt;
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: b
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: i
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: italics with &#xA0; non-breaking space
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: i
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: u
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: CDATA
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: CDATA
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: with
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: near
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_RIGHT
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_RIGHT
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_RIGHT
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_RIGHT
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: CDATA
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text:  edge]]>
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: u
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: emoji
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 😀 &#x1F4A9;
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: emoji
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUESTION
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: process-data
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: some
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: data
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUESTION
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: comment
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: with
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: hyphens
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: but
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: not
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: double
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+    
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: content
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: section
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: section
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: id
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: S2
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+    
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: title
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: NS switching &amp; shadowing
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: title
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+    
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: content
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xmlns
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: default
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: namespace
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: now
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: empty
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_MINUS
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: a
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: lowercase a
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: a
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text:  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: b
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: lowercase b
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: b
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: c
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xml:space
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: preserve
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text:     keep me     
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: c
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: d
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xml:space
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: default
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text:  normalize me 
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: d
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: e
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: Combining: ñ (n + ̃) vs ñ
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: e
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+    
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: content
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: section
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: wrap:outer
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+    
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: wrap:inner
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      Text before
+      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: testns:thing
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xmlns:testns
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: urn:test-override
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: prefixed element with shadowed prefix
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: testns:thing
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+      after.
+    
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: wrap:inner
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: wrap:outer
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: mixed
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+    Start 
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: a
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: alpha
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: a
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text:  middle 
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BANG
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: CDATA
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_BOX_BRACKET_LEFT
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: some
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: raw
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text:  text ]]> end &e2;.
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: mixed
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: tail
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: xml:space
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_EQUAL
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: preserve
+  line: 10
+}
+{
+  kind: TOKEN_KIND_QUOTE_DOUBLE
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: Trailing whitespace      
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_IDENTIFIER
+  lexeme_text: tail
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_GREATER_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_STRING_LITERAL
+  lexeme_text: 
+
+  line: 10
+}
+{
+  kind: TOKEN_KIND_LESS_THAN
+  lexeme_text: (null)
+  line: 10
+}
+{
+  kind: TOKEN_KIND_FORWARD_SLASH
+  
