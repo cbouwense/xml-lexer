@@ -28,8 +28,8 @@ typedef struct {
 
 typedef struct {
     char* name;
-    GupXmlExprExternalId external_id;
-    GupXmlExprInternalSubset internal_subset;
+    char* external_id;
+    char* internal_subset;
 } GupXmlExprDoctypeDeclaration;
 
 typedef struct {

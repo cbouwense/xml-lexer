@@ -1,5 +1,6 @@
 #include <stdbool.h>
 #include "xml_lexer.h"
+#include "xml_parser.h"
 
 int main(int argc, char** argv) {
     // Process arguments
