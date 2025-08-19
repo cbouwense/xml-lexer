@@ -1,0 +1,16 @@
+<document>          ::= <prolog>? <element>
+<prolog>            ::= <XML_declaration>? <DTD>?
+<XML_declaration>   ::= '<?xml' <attribute>+ '?>'
+<DTD>               ::= '<!DOCTYPE' <name> <external_ID>? '[' <internal_subset> ']'? '>'
+<element>           ::= <start_tag> <content> <end_tag> | <empty_element_tag>
+<start_tag>         ::= '<' <name> <attribute>* '>'
+<end_tag>           ::= '</' <name> '>'
+<empty_element_tag> ::= '<' <name> <attribute>* '/>'
+<content>           ::= (<element> | <char_data>)*
+<attribute>         ::= <name> '=' <value>
+<value>             ::= '"' <char_data_excluding_quotes> '"' | "'" <char_data_excluding_quotes> "'"
+<name>              ::= <name_start_char> <name_char>*
+<name_start_char>   ::= [A-Z] | [a-z] | '_' | ':'
+<name_char>         ::= <name_start_char> | [0-9] | '-' | '.'
+<char_data>         ::= <character>+
+<character>         ::= any character, excluding '<' and '&'
