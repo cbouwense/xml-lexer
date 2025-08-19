@@ -1,46 +1,56 @@
-typedef struct {
+typedef struct GupXmlExprAttribute GupXmlExprAttribute;
+typedef struct GupXmlExprContent GupXmlExprContent;
+typedef struct GupXmlExprEndTag GupXmlExprEndTag;
+typedef struct GupXmlExprStartTag GupXmlExprStartTag;
+typedef struct GupXmlExprElement GupXmlExprElement;
+typedef struct GupXmlExprDoctypeDeclaration GupXmlExprDoctypeDeclaration;
+typedef struct GupXmlExprXmlDeclaration GupXmlExprXmlDeclaration;
+typedef struct GupXmlExprProlog GupXmlExprProlog;
+typedef struct GupXmlExprDocument GupXmlExprDocument;
+
+struct GupXmlExprAttribute {
     char* name;
     char* value;
-} GupXmlExprAttribute;
+};
 
-typedef struct {
-    GupXmlExprElement element;
+struct GupXmlExprContent {
+    GupXmlExprElement* element;
     char* char_data;
-} GupXmlExprContent;
+};
 
-typedef struct {
+struct GupXmlExprEndTag {
     char* name;
-} GupXmlExprEndTag;
+};
 
-typedef struct {
+struct GupXmlExprStartTag {
     char* name;
-    GupXmlExprAttribute attribute;
-} GupXmlExprStartTag;
+    GupXmlExprAttribute* attribute;
+};
 
-typedef GupXmlExprStartTag GupXmlExprEmptyElementTag;
+typedef GupXmlExprStartTag* GupXmlExprEmptyElementTag;
 
-typedef struct {
-    GupXmlExprStartTag start_tag;
-    GupXmlExprContent content;
-    GupXmlExprEndTag end_tag;
-    GupXmlExprEmptyElementTag empty_element_tag;
-} GupXmlExprElement;
+struct GupXmlExprElement {
+    GupXmlExprStartTag* start_tag;
+    GupXmlExprContent* content;
+    GupXmlExprEndTag* end_tag;
+    GupXmlExprEmptyElementTag* empty_element_tag;
+};
 
-typedef struct {
+struct GupXmlExprDoctypeDeclaration {
     char* name;
     char* external_id;
     char* internal_subset;
-} GupXmlExprDoctypeDeclaration;
+};
 
-typedef struct {
-    GupXmlExprAttribute attribute;
-} GupXmlExprXmlDeclaration;
+struct GupXmlExprXmlDeclaration {
+    GupXmlExprAttribute* attribute;
+};
 
-typedef struct {
-    GupXmlExprXmlDeclaration xml_declaration;
-} GupXmlExprProlog;
+struct GupXmlExprProlog {
+    GupXmlExprXmlDeclaration* xml_declaration;
+};
 
-typedef struct {
-    GupXmlExprProlog prolog;
-    GupXmlExprElement element;
-} GupXmlExprDocument;
+struct GupXmlExprDocument {
+    GupXmlExprProlog* prolog;
+    GupXmlExprElement* element;
+};

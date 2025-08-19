@@ -2,12 +2,6 @@
 <prolog>               ::= <XML_declaration>? <DTD>?
 <XML_declaration>      ::= '<?xml' <attribute>+ '?>'
 <DTD>                  ::= '<!DOCTYPE' <name> <external_ID>? ('[' <internal_subset> ']')? '>'
-<internal_subset>      ::= (<markup_declaration> | <processing_instruction> | <comment>)*
-<markup_declaration>   ::= <element_declaration> | <attlist_declaration> | <entity_declaration> | <notation_declaration>
-<element_declaration>  ::= '<!ELEMENT' <name> <content_model> '>'
-<attlist_declaration>  ::= '<!ATTLIST' <name> <attribute_definition>+ '>'
-<entity_declaration>   ::= '<!ENTITY' <name> (<value> | <external_ID>) '>'
-<notation_declaration> ::= '<!NOTATION' <name> <external_ID> '>'
 <element>              ::= <start_tag> <content> <end_tag> | <empty_element_tag>
 <start_tag>            ::= '<' <name> <attribute>* '>'
 <end_tag>              ::= '</' <name> '>'
