@@ -1,1 +1,1 @@
-clang-19 main.c -o main -g -Wall -Wextra -Werror --pedantic -fsanitize=address,undefined
+clang-19 main.c xml_lexer.c -o main -g -Wall -Wextra -Werror --pedantic -fsanitize=address,undefined
